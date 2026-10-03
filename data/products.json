@@ -1,0 +1,232 @@
+[
+  {
+    "id": "p-001",
+    "slug": "cedar-sourdough",
+    "name": "Cedar Sourdough",
+    "category": "Breads",
+    "icon": "loaf",
+    "price": 720,
+    "unit": "loaf",
+    "tagline": "A deep-crust country sourdough with toasted grain and a clean, gentle tang.",
+    "description": "A deep-crust country sourdough with toasted grain and a clean, gentle tang. Crafted in small batches with carefully sourced ingredients, finished by hand and baked fresh for the day.",
+    "weight": "800g",
+    "allergens": [
+      "Gluten",
+      "Wheat"
+    ],
+    "featured": true,
+    "badge": "House favourite"
+  },
+  {
+    "id": "p-002",
+    "slug": "cardamom-morning-bun",
+    "name": "Cardamom Morning Bun",
+    "category": "Viennoiserie",
+    "icon": "cinnamonroll",
+    "price": 460,
+    "unit": "each",
+    "tagline": "Buttery laminated pastry rolled with cardamom sugar and orange glaze.",
+    "description": "Buttery laminated pastry rolled with cardamom sugar and orange glaze. Crafted in small batches with carefully sourced ingredients, finished by hand and baked fresh for the day.",
+    "weight": "130g",
+    "allergens": [
+      "Gluten",
+      "Dairy",
+      "Egg"
+    ],
+    "featured": true,
+    "badge": "Fresh today"
+  },
+  {
+    "id": "p-003",
+    "slug": "apricot-almond-danish",
+    "name": "Apricot Almond Danish",
+    "category": "Viennoiserie",
+    "icon": "croissant",
+    "price": 520,
+    "unit": "each",
+    "tagline": "Flaky layers, almond frangipane and a tart apricot centre.",
+    "description": "Flaky layers, almond frangipane and a tart apricot centre. Crafted in small batches with carefully sourced ingredients, finished by hand and baked fresh for the day.",
+    "weight": "125g",
+    "allergens": [
+      "Gluten",
+      "Dairy",
+      "Egg",
+      "Nuts"
+    ],
+    "featured": true,
+    "badge": "Bestseller"
+  },
+  {
+    "id": "p-004",
+    "slug": "dark-chocolate-sea-salt-cookie",
+    "name": "Dark Chocolate Sea Salt Cookie",
+    "category": "Cookies",
+    "icon": "cookie",
+    "price": 290,
+    "unit": "each",
+    "tagline": "Brown butter cookie with 70% chocolate, roasted malt and flaky sea salt.",
+    "description": "Brown butter cookie with 70% chocolate, roasted malt and flaky sea salt. Crafted in small batches with carefully sourced ingredients, finished by hand and baked fresh for the day.",
+    "weight": "100g",
+    "allergens": [
+      "Gluten",
+      "Dairy",
+      "Egg"
+    ],
+    "featured": false,
+    "badge": null
+  },
+  {
+    "id": "p-005",
+    "slug": "rosemary-focaccia",
+    "name": "Rosemary Focaccia",
+    "category": "Breads",
+    "icon": "loaf",
+    "price": 580,
+    "unit": "slab",
+    "tagline": "Olive-oil rich focaccia with rosemary, sea salt and a cloud-soft crumb.",
+    "description": "Olive-oil rich focaccia with rosemary, sea salt and a cloud-soft crumb. Crafted in small batches with carefully sourced ingredients, finished by hand and baked fresh for the day.",
+    "weight": "450g",
+    "allergens": [
+      "Gluten",
+      "Wheat"
+    ],
+    "featured": true,
+    "badge": "Oven pull"
+  },
+  {
+    "id": "p-006",
+    "slug": "pistachio-cloud-cake",
+    "name": "Pistachio Cloud Cake",
+    "category": "Cakes",
+    "icon": "cupcake",
+    "price": 390,
+    "unit": "each",
+    "tagline": "Light pistachio sponge, vanilla cream and roasted pistachio crunch.",
+    "description": "Light pistachio sponge, vanilla cream and roasted pistachio crunch. Crafted in small batches with carefully sourced ingredients, finished by hand and baked fresh for the day.",
+    "weight": "110g",
+    "allergens": [
+      "Gluten",
+      "Dairy",
+      "Egg",
+      "Nuts"
+    ],
+    "featured": true,
+    "badge": "New"
+  },
+  {
+    "id": "p-007",
+    "slug": "honey-oat-loaf",
+    "name": "Honey Oat Morning Loaf",
+    "category": "Breads",
+    "icon": "baguette",
+    "price": 540,
+    "unit": "loaf",
+    "tagline": "Soft oat loaf sweetened with local honey and finished with toasted seeds.",
+    "description": "Soft oat loaf sweetened with local honey and finished with toasted seeds. Crafted in small batches with carefully sourced ingredients, finished by hand and baked fresh for the day.",
+    "weight": "650g",
+    "allergens": [
+      "Gluten",
+      "Wheat"
+    ],
+    "featured": false,
+    "badge": null
+  },
+  {
+    "id": "p-008",
+    "slug": "cocoa-hazelnut-tart",
+    "name": "Cocoa Hazelnut Tart",
+    "category": "Cakes",
+    "icon": "tart",
+    "price": 650,
+    "unit": "each",
+    "tagline": "Dark cocoa shell, silky hazelnut praline and glossy chocolate finish.",
+    "description": "Dark cocoa shell, silky hazelnut praline and glossy chocolate finish. Crafted in small batches with carefully sourced ingredients, finished by hand and baked fresh for the day.",
+    "weight": "150g",
+    "allergens": [
+      "Gluten",
+      "Dairy",
+      "Egg",
+      "Nuts"
+    ],
+    "featured": false,
+    "badge": "Weekend"
+  },
+  {
+    "id": "p-009",
+    "slug": "cinnamon-sugar-knot",
+    "name": "Cinnamon Sugar Knot",
+    "category": "Viennoiserie",
+    "icon": "cinnamonroll",
+    "price": 360,
+    "unit": "each",
+    "tagline": "Twisted laminated dough with cinnamon sugar and caramelised edge.",
+    "description": "Twisted laminated dough with cinnamon sugar and caramelised edge. Crafted in small batches with carefully sourced ingredients, finished by hand and baked fresh for the day.",
+    "weight": "105g",
+    "allergens": [
+      "Gluten",
+      "Dairy",
+      "Egg"
+    ],
+    "featured": false,
+    "badge": null
+  },
+  {
+    "id": "p-010",
+    "slug": "black-sesame-berliner",
+    "name": "Black Sesame Berliner",
+    "category": "Viennoiserie",
+    "icon": "berliner",
+    "price": 430,
+    "unit": "each",
+    "tagline": "Pillowy fried dough filled with black-sesame pastry cream.",
+    "description": "Pillowy fried dough filled with black-sesame pastry cream. Crafted in small batches with carefully sourced ingredients, finished by hand and baked fresh for the day.",
+    "weight": "115g",
+    "allergens": [
+      "Gluten",
+      "Dairy",
+      "Egg",
+      "Sesame"
+    ],
+    "featured": false,
+    "badge": "Limited"
+  },
+  {
+    "id": "p-011",
+    "slug": "chocolate-rye-cookie",
+    "name": "Chocolate Rye Cookie",
+    "category": "Cookies",
+    "icon": "cookie",
+    "price": 310,
+    "unit": "each",
+    "tagline": "Rye and dark chocolate cookie with crisp edges and a fudgy centre.",
+    "description": "Rye and dark chocolate cookie with crisp edges and a fudgy centre. Crafted in small batches with carefully sourced ingredients, finished by hand and baked fresh for the day.",
+    "weight": "95g",
+    "allergens": [
+      "Gluten",
+      "Dairy",
+      "Egg"
+    ],
+    "featured": false,
+    "badge": null
+  },
+  {
+    "id": "p-012",
+    "slug": "seasonal-stone-fruit-tart",
+    "name": "Seasonal Stone-Fruit Tart",
+    "category": "Cakes",
+    "icon": "tart",
+    "price": 720,
+    "unit": "each",
+    "tagline": "Vanilla pastry cream, almond frangipane and market fruit on crisp pastry.",
+    "description": "Vanilla pastry cream, almond frangipane and market fruit on crisp pastry. Crafted in small batches with carefully sourced ingredients, finished by hand and baked fresh for the day.",
+    "weight": "180g",
+    "allergens": [
+      "Gluten",
+      "Dairy",
+      "Egg",
+      "Nuts"
+    ],
+    "featured": false,
+    "badge": "Seasonal"
+  }
+]

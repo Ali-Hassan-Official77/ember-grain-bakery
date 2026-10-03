@@ -1,0 +1,1 @@
+import{Suspense}from"react";import{getProducts}from"@/lib/db";import{ShopClient}from"./ShopClient";export const metadata={title:"The Counter",description:"Browse Morrow Bakehouse breads, pastries, cakes and cookies."};export default async function ShopPage(){return <Suspense fallback={null}><ShopClient products={await getProducts()}/></Suspense>}

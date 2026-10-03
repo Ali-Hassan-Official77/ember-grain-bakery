@@ -1,0 +1,92 @@
+[
+  {
+    "id": "EW-MUSBCMXG-6VLC",
+    "createdAt": "2026-10-03T11:33:18.484Z",
+    "customer": {
+      "fullName": "Khan Shamil",
+      "email": "shamilewqkhan422@gmail.com",
+      "phone": "8768756876876",
+      "address": "kjasdakjsdjkasdjkajksdhjahdahsdjkhasjkd",
+      "city": "Rawalpindi",
+      "notes": "ashduuqihwuiodjasndsjkvjasknd"
+    },
+    "items": [
+      {
+        "productId": "p-006",
+        "name": "Pistachio Cloud Cake",
+        "price": 390,
+        "quantity": 1
+      },
+      {
+        "productId": "p-005",
+        "name": "Rosemary Focaccia",
+        "price": 580,
+        "quantity": 1
+      }
+    ],
+    "deliverySlot": "morning",
+    "paymentMethod": "cod",
+    "subtotal": 970,
+    "deliveryFee": 150,
+    "total": 1120,
+    "status": "received"
+  },
+  {
+    "id": "EW-MU5YA75Q-OXZ0",
+    "createdAt": "2026-09-17T19:56:33.854Z",
+    "customer": {
+      "fullName": "ALI HASSAN",
+      "email": "al5@cs.qau.edu.pk",
+      "phone": "4565478568567",
+      "address": "jkasdjkasjkdnjkansd",
+      "city": "Rawalpindi",
+      "notes": "sdfgdfgdsfgdfg"
+    },
+    "items": [
+      {
+        "productId": "p-003",
+        "name": "Classic Berliner",
+        "price": 420,
+        "quantity": 1
+      },
+      {
+        "productId": "p-006",
+        "name": "Chocolate Chunk Cookie",
+        "price": 250,
+        "quantity": 1
+      }
+    ],
+    "deliverySlot": "afternoon",
+    "paymentMethod": "cod",
+    "subtotal": 670,
+    "deliveryFee": 150,
+    "total": 820,
+    "status": "received"
+  },
+  {
+    "id": "EW-MTIOGTNQ-KEIB",
+    "createdAt": "2026-09-01T13:03:04.742Z",
+    "customer": {
+      "fullName": "Ali Hassan",
+      "email": "alihassanofficial297@gmail.com",
+      "phone": "03453507068",
+      "address": "Rawalpindi, Pir Mehar ali shah town",
+      "city": "Rawalpindi",
+      "notes": ""
+    },
+    "items": [
+      {
+        "productId": "p-003",
+        "name": "Classic Berliner",
+        "price": 420,
+        "quantity": 4
+      }
+    ],
+    "deliverySlot": "afternoon",
+    "paymentMethod": "cod",
+    "subtotal": 1680,
+    "deliveryFee": 150,
+    "total": 1830,
+    "status": "received"
+  }
+]
